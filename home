@@ -1,1 +1,100 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Attorney Edward L. Colon, ltd.</title>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="home-style.css" />
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+<div class="background-overlay"></div>
+<header>
+<div class="header-container">
+    <div class="logo">Attorney Edward L. Colon, Ltd.</div>
+    <div class="nav-wrapper">
+    <nav class="nav-links">
+    <span class="nav-icon">⚖️</span>
+    <a href="#">About</a>
+    <span class="nav-icon">⚖️</span>
+    <a href="#">Practice Areas</a>
+    <span class="nav-icon">⚖️</span>
+    <a href="#">Contact</a>
+</nav>
+    </div>
+</div>
+<div class="header-slogan">Aggressively Protecting Your Rights</div>
+</header>
+
+<div class="section-divider"></div>
+
+<section id="hero">
+<div class="container">
+    <h2>
+    <span style="font-size: 1.5rem; margin-right: 0.5rem;">⚖️</span>
+    Your Case. Your Voice. Our Fight.
+    </h2>
+    <p>We understand that legal challenges can feel overwhelming. That’s why Attorney Colon takes the time to listen, explain, and empower you every step of the way. You’re not just a case—you’re a person, and we’re here to protect what matters most.</p>
+    <br>
+    <h2>
+    <span style="font-size: 1.5rem; margin-right: 0.5rem;">⚖️</span>
+    Trusted by Clients. Respected in Court.
+    </h2>
+    <p>With a reputation built on results and relationships, Attorney Colon has earned the trust of clients across Mahoning County and beyond. When you choose our firm, you’re choosing experience, dedication, and a relentless pursuit of justice.</p>
+</div>
+</section>
+
+<!-- First one -->
+<div class="section-divider"></div>
+
+<!-- TESTIMONIALS SECTION -->
+<section id="testimonials-overlay">
+<div class="container">
+    <h2 class="carousel-title">What Clients Are Saying</body></h2>
+
+    <div class="carousel">
+    <div class="testimonial active">
+        <p>"Attorney Colon has been my personal attorney for about 15 years..."</p>
+        <span>– Joe Pupin</span>
+    </div>
+        <div class="testimonial">
+        <p>"One of the best child custody lawyers around..."</p>
+        <span>– Kristen Bowman</span>
+    </div>
+    <div class="testimonial">
+        <p>"He is literally the best attorney I have ever worked with..."</p>
+        <span>– Alicia Linden</span>
+    </div>
+    <div class="testimonial">
+        <p>"Highly recommend Attorney Colon. He handled my custody case and did a great job."</p>
+        <span>– Amy Cooper</span>
+    </div>
+    <div class="testimonial">
+        <p>"There needs to be more attorneys out there like Attorney Colon. He is honest and upfront with compassion for people. I would highly recommend him!!"</p>
+        <span>– Charla Sontag</span>
+    </div>
+    <div class="testimonial">
+        <p>"He's an awesome attorney. Tells you exactly what has to be done. Very honest and caring."</p>
+        <span>– Nani Rivera</span>
+    </div>
+    <div class="testimonial">
+        <p>"He is a great guy, great attorney and he is straight forward."</p>
+        <span>– Brenda Gray</span>
+    </div>
+
+    <div class="carousel-dots">
+        <span class="dot active"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+    </div>
+</div>
+</section>
+
+<!-- Second one -->
+<div class="section-divider"></div>
+
+<script src="home.js"></script>
+</body>
+</html>
